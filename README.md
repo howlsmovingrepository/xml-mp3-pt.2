@@ -1,5 +1,5 @@
 # xml-mp3-pt.2
-Projects for Frank &lt;3 addendum to xml-mp3
+Project 2 for Frank &lt;3 addendum to xml-mp3
 
 XML project for Frank Akaiwa Fall 2020, grade: 100%
 
