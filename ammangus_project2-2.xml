@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="ammangus_project2-2.xsd">
+    <artist artistname="Billie Eilish">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2016</startcareer>
+        <genre>pop</genre>
+        <country>USA</country>
+        <album albumname="When We All Fall Asleep, Where Do We Go?" albumtype="album"
+            a_sku="K315F2020A" catagory="Grammy_Winner">
+            <image>billie.jpg</image>
+            <citation>theguardian.com</citation>
+            <comment>wish u were gay is not about a girl, automatic -1</comment>
+            <rating>7</rating>
+            <producer>Finneas O'Connell</producer>
+            <engineersmixers>Rob Kinelski &amp; Finneas O'Connell</engineersmixers>
+            <songwriters>Billie Eilish O'Connell &amp; Finneas O'Connell</songwriters>
+            <masteringengineer>John Greenham</masteringengineer>
+            <a_label>interscope</a_label>
+            <tracks>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A001">
+                    <title>!!!!!!!</title>
+                    <rankposition>1</rankposition>
+                    <length>0:13</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A002">
+                    <title>bad guy</title>
+                    <rankposition>2</rankposition>
+                    <length>3:14</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A003">
+                    <title>xanny</title>
+                    <rankposition>3</rankposition>
+                    <length>4:03</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A004">
+                    <title>you should see me in a crown</title>
+                    <rankposition>4</rankposition>
+                    <length>3:00</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A005">
+                    <title>all the good girls go to hell</title>
+                    <rankposition>5</rankposition>
+                    <length>2:48</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A006">
+                    <title>wish you were gay</title>
+                    <rankposition>6</rankposition>
+                    <length>3:41</length>
+                    <writers>Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A007">
+                    <title>when the party's over</title>
+                    <rankposition>7</rankposition>
+                    <length>3:16</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A008">
+                    <title>8</title>
+                    <rankposition>8</rankposition>
+                    <length>2:53</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A009">
+                    <title>my strange addiction</title>
+                    <rankposition>9</rankposition>
+                    <length>2:59</length>
+                    <writers>Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A010">
+                    <title>bury a friend</title>
+                    <rankposition>10</rankposition>
+                    <length>3:13</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A011">
+                    <title>ilomilo</title>
+                    <rankposition>11</rankposition>
+                    <length>2:36</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A012">
+                    <title>listen before i go</title>
+                    <rankposition>12</rankposition>
+                    <length>4:02</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A013">
+                    <title>i love you</title>
+                    <rankposition>13</rankposition>
+                    <length>4:51</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+                <track albumref="K315F2020A" type="song" t_sku="K315F2020A014">
+                    <title>goodbye</title>
+                    <rankposition>14</rankposition>
+                    <length>1:59</length>
+                    <writers>Billie Eilish / Finneas O'Connell</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>B0029727-02</r_catalogue_number>
+                    <r_barcode>602577427626</r_barcode>
+                    <format>CD</format>
+                    <r_country>AU</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Interscope Records, Darkroom</r_label>
+                    <r_catalogue_number>B0029729-01, B0029729-01JK02</r_catalogue_number>
+                    <r_barcode>602577427664</r_barcode>
+                    <format>12" Vinyl</format>
+                    <r_country>CA, US</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>602577427626</r_catalogue_number>
+                    <r_barcode>602577427626</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>602577588037</r_catalogue_number>
+                    <r_barcode>602577427664</r_barcode>
+                    <format>12" Vinyl</format>
+                    <r_country>IE, GB</r_country>
+                </release>
+
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Interscope Records</r_label>
+                    <r_catalogue_number>UICS-1350</r_catalogue_number>
+                    <r_barcode>4988031321645</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>B0029727-02</r_catalogue_number>
+                    <r_barcode>602577427626</r_barcode>
+                    <format>CD</format>
+                    <r_country>GB</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>[none]</r_catalogue_number>
+                    <r_barcode>602508481703</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>B0029727-02</r_catalogue_number>
+                    <r_barcode>602577427626</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577427640</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-03-29</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577427657</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-12-09</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>B0031217-1</r_catalogue_number>
+                    <r_barcode>602508310270</r_barcode>
+                    <format>7x7" Vinyl</format>
+                    <r_country>US, XE</r_country>
+                </release>
+
+
+                <release>
+                    <date>2019-12-13</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>602508556517</r_catalogue_number>
+                    <r_barcode>602508556517</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2020-01-17</date>
+                    <r_label>Darkroom, Interscope Records</r_label>
+                    <r_catalogue_number>B0031529-02</r_catalogue_number>
+                    <r_barcode>602508546419</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Bon Iver">
+        <membersIFgroup groupORperson="group">Justin Vernon / Sean Carey / Matthew McCaughan /
+            Michael Lewis / Andrew Fitzpatrick / Rob Moose / Jenn Wasner</membersIFgroup>
+        <startcareer>2006</startcareer>
+        <genre>indie folk</genre>
+        <country>USA</country>
+        <album albumname="I,I" albumtype="album" a_sku="K315F2020B" catagory="Grammy_Nominee">
+            <image>bon.jpg</image>
+            <citation>vulture.com</citation>
+            <comment>thought he was dead, thought he was a single person; but i liked birdy's cover of skinny love in like 2012</comment>
+            <rating>7</rating>
+            <producer>Brad Cook, Chris Messina &amp; Justin Vernon</producer>
+            <engineersmixers>Zach Hanson &amp; Chris Messina</engineersmixers>
+            <songwriters>Brad Cook &amp; Justin Vernon</songwriters>
+            <masteringengineer>Greg Calbi</masteringengineer>
+            <a_label>4AD</a_label>
+            <tracks>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B001">
+                    <title>Yi</title>
+                    <rankposition>1</rankposition>
+                    <length>:31</length>
+                    <writers>BJ Burton / Trever Hagen</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B002">
+                    <title>iMi</title>
+                    <rankposition>2</rankposition>
+                    <length>3:16</length>
+                    <writers>Josh Berg / James Blake / BJ Burton / Brad Cook / Wesley Glass / Channy Leaneagh / Mike Lewis / Rob Moose / Mike Noyce / Jeremy Nutzman</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B003">
+                    <title>We</title>
+                    <rankposition>3</rankposition>
+                    <length>2:22</length>
+                    <writers>Brad Cook / Phil Cook / Wesley Glass / Andrew Sarlo</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B004">
+                    <title>Holyfields</title>
+                    <rankposition>4</rankposition>
+                    <length>3:07</length>
+                    <writers>Brad Cook / Chris Messina / Rob Moose</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B005">
+                    <title>Hey, Ma</title>
+                    <rankposition>5</rankposition>
+                    <length>3:36</length>
+                    <writers>BJ Burton / Brad Cook</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B006">
+                    <title>U (Man Like)</title>
+                    <rankposition>6</rankposition>
+                    <length>2:25</length>
+                    <writers>Naeem Hanks / Bruce Hornsby / Chris Messina</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B007">
+                    <title>Naeem</title>
+                    <rankposition>7</rankposition>
+                    <length>4:22</length>
+                    <writers>JT Bates / BJ Burton / Brad Cook / Noah Goldstein / Trever Hagen</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B008">
+                    <title>Jelmore</title>
+                    <rankposition>8</rankposition>
+                    <length>2:30</length>
+                    <writers>Buddy Ross</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B009">
+                    <title>Faith</title>
+                    <rankposition>9</rankposition>
+                    <length>3:37</length>
+                    <writers>BJ Burton / Francis Farewell Starlite / Camilla Staveley-Taylor</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B010">
+                    <title>Marion</title>
+                    <rankposition>10</rankposition>
+                    <length>2:21</length>
+                    <writers>Rob Moose</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B011">
+                    <title>Salem</title>
+                    <rankposition>11</rankposition>
+                    <length>3:44</length>
+                    <writers>Andrew Broder / Sean Carey / Channy Leaneagh</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B012">
+                    <title>Sh'Diah</title>
+                    <rankposition>12</rankposition>
+                    <length>4:11</length>
+                    <writers>Ryan Olson</writers>
+                </track>
+                <track albumref="K315F2020B" type="song" t_sku="K315F2020B013">
+                    <title>RABi</title>
+                    <rankposition>13</rankposition>
+                    <length>3:32</length>
+                    <writers>Brad Cook / Mike Lewis</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-08-09</date>
+                    <r_label>Jagjaguwar</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>656605235066</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, XE, US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Jagjaguwar</r_label>
+                    <r_catalogue_number>JAG350</r_catalogue_number>
+                    <r_barcode>656605235028</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE, US</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Lana Del Rey">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2012</startcareer>
+        <genre>baroque pop</genre>
+        <!-- that's what google said and i love it i had to keep it dock me if you must -->
+        <country>USA</country>
+        <album albumname="Norman F***ing Rockwell!" albumtype="album" a_sku="K315F2020C"
+            catagory="Grammy_Nominee">
+            <image>lana.jpeg</image>
+            <citation>twitter.com</citation>
+            <comment>listen,, i dont support cops and i know shes all re-enacting lolita with one but i did really like this album so it is getting a good rating, i am still by praxis antifacist</comment>
+            <rating>9</rating>
+            <producer>Jack Antonoff &amp; Lana Del Rey</producer>
+            <engineersmixers>Jack Antonoff &amp; Laura Sisk</engineersmixers>
+            <songwriters>Jack Antonoff &amp; Lana Del Rey</songwriters>
+            <masteringengineer>Chris Gehringer</masteringengineer>
+            <a_label>interscope</a_label>
+            <tracks>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C001">
+                    <title>Norman Fucking Rockwell</title>
+                    <rankposition>1</rankposition>
+                    <length>4:08</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C002">
+                    <title>Mariners Apartment Complex</title>
+                    <rankposition>2</rankposition>
+                    <length>4:07</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C003">
+                    <title>Venice Bitch</title>
+                    <rankposition>3</rankposition>
+                    <length>9:37</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C004">
+                    <title>Fuck It I Love You</title>
+                    <rankposition>4</rankposition>
+                    <length>3:38</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C005">
+                    <title>Doin' Time</title>
+                    <rankposition>5</rankposition>
+                    <length>3:22</length>
+                    <writers>George Gershwin / Ira Gershwin / Marshall Goodman / Dorothy Heyward / DuBose Heyward / Adam Horovitz / MCA / Bradley Nowell / Rick Rubin</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C006">
+                    <title>Love Song</title>
+                    <rankposition>6</rankposition>
+                    <length>3:49</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C007">
+                    <title>Cinnamon Girl</title>
+                    <rankposition>7</rankposition>
+                    <length>5:00</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C008">
+                    <title>How to Disappear</title>
+                    <rankposition>8</rankposition>
+                    <length>3:48</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C009">
+                    <title>California</title>
+                    <rankposition>9</rankposition>
+                    <length>5:05</length>
+                    <writers>Zachary Daves / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C010">
+                    <title>The Next Best American Record</title>
+                    <rankposition>10</rankposition>
+                    <length>5:49</length>
+                    <writers>Rick Nowels / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C011">
+                    <title>The Greatest</title>
+                    <rankposition>11</rankposition>
+                    <length>5:00</length>
+                    <writers>Jack Antonoff / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C012">
+                    <title>Bartender</title>
+                    <rankposition>12</rankposition>
+                    <length>4:23</length>
+                    <writers>Rick Nowels / Lana Del Rey</writers>
+                </track>
+                <track albumref="K315F2020C" type="song" t_sku="K315F2020C013">
+                    <title>Happiness Is a Butterfly</title>
+                    <rankposition>13</rankposition>
+                    <length>4:32</length>
+                    <writers>Jack Antonoff / Rick Nowels / Lana Del Rey</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602508068638</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602508068645</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AI, AG, ZW</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Universal Music</r_label>
+                    <r_catalogue_number>807588</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>AR</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>807588</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>AU</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>00602508068300, 0806830, B0030880-01</r_catalogue_number>
+                    <r_barcode>602508068300</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>XE, US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor</r_label>
+                    <r_catalogue_number>806831</r_catalogue_number>
+                    <r_barcode>602508068317</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>0806833, B0030880-01</r_catalogue_number>
+                    <r_barcode>602508068331</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>XE, GB</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>0806834, B0030880-01</r_catalogue_number>
+                    <r_barcode>602508068348</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>807588</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Interscope Records</r_label>
+                    <r_catalogue_number>809855</r_catalogue_number>
+                    <r_barcode>602508098550</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>00602508104824, 0810482</r_catalogue_number>
+                    <r_barcode>602508104824</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>00602508110726, 0250811072</r_catalogue_number>
+                    <r_barcode>602508110726</r_barcode>
+                    <format>Cassette</format>
+                    <r_country>XE, US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>811073</r_catalogue_number>
+                    <r_barcode>602508110733</r_barcode>
+                    <format>Cassette</format>
+                    <r_country>XE, US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Interscope Records, Polydor, Universal Music Group</r_label>
+                    <r_catalogue_number>602508075889</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>MX</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Universal Music Taiwan</r_label>
+                    <r_catalogue_number>807588</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>TW</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>B0030880-01</r_catalogue_number>
+                    <r_barcode>602508068317</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>B0030881-01</r_catalogue_number>
+                    <r_barcode>602508068348</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>B0030878-02</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Interscope Records</r_label>
+                    <r_catalogue_number>B0030902-02</r_catalogue_number>
+                    <r_barcode>602508098550</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>B0030880-02</r_catalogue_number>
+                    <r_barcode>602508104824</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-09-13</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>UICS-1356</r_catalogue_number>
+                    <r_barcode>4988031350621</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+                <release>
+                    <date>BR2019</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>60250807588</r_catalogue_number>
+                    <r_barcode>602508075889</r_barcode>
+                    <format>CD</format>
+                    <r_country>BR</r_country>
+                </release>
+                <release>
+                    <date>XE2019</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>840937</r_catalogue_number>
+                    <r_barcode>602508409370</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>XE2020</date>
+                    <r_label>Polydor, Interscope Records</r_label>
+                    <r_catalogue_number>060250840940, 0840940</r_catalogue_number>
+                    <r_barcode>602508409400</r_barcode>
+                    <format>2x12" Vinyl</format>
+                    <r_country>XE</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Ariana Grande">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2013</startcareer>
+        <genre>pop</genre>
+        <country>USA</country>
+        <album albumname="thank u, next" albumtype="album" a_sku="K315F2020D"
+            catagory="Grammy_Nominee">
+            <image>ari.jpg</image>
+            <citation>elitedaily.com</citation>
+            <comment>i like the title track and 'break up with ur girlfriend im bored' the rest is annoying</comment>
+            <rating>5</rating>
+            <producer>Tommy Brown, Ilya, Max Martin &amp; Victoria Monet</producer>
+            <engineersmixers>Serban Ghenea, Sam Holland &amp; Brendan Morawski</engineersmixers>
+            <songwriters>Tommy Brown, Ariana Grande, Savan Kotecha, Max Martin, Victoria Monet, Tayla Parx &amp; Ilya Salmanzadeh</songwriters>
+            <masteringengineer>Randy Merrill</masteringengineer>
+            <a_label>republic</a_label>
+            <tracks>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D001">
+                    <title>imagine</title>
+                    <rankposition>1</rankposition>
+                    <length>3:32</length>
+                    <writers>Ariana Grande / Nathan Perez / Priscilla Renea / Jameel Roberts</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D002">
+                    <title>needy</title>
+                    <rankposition>2</rankposition>
+                    <length>2:51</length>
+                    <writers>Tommy Brown / Ariana Grande / Tayla Parx</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D003">
+                    <title>NASA</title>
+                    <rankposition>3</rankposition>
+                    <length>3:01</length>
+                    <writers>Charles Anderson / Tommy Brown / Ariana Grande / Tayla Parx</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D004">
+                    <title>bloodline</title>
+                    <rankposition>4</rankposition>
+                    <length>3:36</length>
+                    <writers>Ariana Grande / Savan Kotecha / Max Martin / Ilya Salmanzadeh</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D005">
+                    <title>fake smile</title>
+                    <rankposition>5</rankposition>
+                    <length>3:28</length>
+                    <writers>Mary Frierson / Ariana Grande / Kennedi Lykken / Tayla Parx / Nathan Perez / Priscilla Renea / Justin Tranter</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D006">
+                    <title>bad idea</title>
+                    <rankposition>6</rankposition>
+                    <length>4:27</length>
+                    <writers>Ariana Grande / Savan Kotecha / Max Martin / Ilya Salmanzadeh</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D007">
+                    <title>make up</title>
+                    <rankposition>7</rankposition>
+                    <length>2:20</length>
+                    <writers>Brian Malik Baptiste / Tommy Brown / Ariana Grande / Victoria Monét / Tayla Parx</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D008">
+                    <title>ghostin</title>
+                    <rankposition>8</rankposition>
+                    <length>4:31</length>
+                    <writers>Ariana Grande / Savan Kotecha / Max Martin / Victoria Monét / Tayla Parx / Ilya Salmanzadeh</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D009">
+                    <title>in my head</title>
+                    <rankposition>9</rankposition>
+                    <length>3:42</length>
+                    <writers>Denisia Andrews / Brittany Coney / Ariana Grande / Lindel Deon Nelson Jr / Nathan Perez / Jameel Roberts</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D010">
+                    <title>7 rings</title>
+                    <rankposition>10</rankposition>
+                    <length>2:58</length>
+                    <writers>Charles Anderson / Tommy Brown / Michael Foster / Ariana Grande / Oscar Hammerstein II / Kim Krysiuk / Victoria McCants / Tayla Parx / Richard Rodgers / Richard Rogers / Njomza Vitia</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D011">
+                    <title>thank u, next</title>
+                    <rankposition>11</rankposition>
+                    <length>3:27</length>
+                    <writers>Charles Anderson / Tommy Brown / Michael Foster / Ariana Grande / Kim Krysiuk / Victoria Monét / Tayla Parx / Njomza Vitia</writers>
+                </track>
+                <track albumref="K315F2020D" type="song" t_sku="K315F2020D012">
+                    <title>break up with your girlfriend, i'm bored</title>
+                    <rankposition>12</rankposition>
+                    <length>3:10</length>
+                    <writers>Kevin Briggs / Kandi Burruss / Ariana Grande / Savan Kotecha / Max Martin / Ilya Salmanzadeh</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number>602377378034</r_catalogue_number>
+                    <r_barcode>602577378034</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number>UICU-9097</r_catalogue_number>
+                    <r_barcode>4988031321584</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577490354</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>US, CA, GB</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>75992567718</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number>B0029653-02</r_catalogue_number>
+                    <r_barcode>602577378034</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577464997</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>US, DZ, GB</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <format>Cassette</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577465284</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577465369</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>602577490385</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-02-08</date>
+                    <r_label>Republic Records</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode/>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="H.E.R.">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2016</startcareer>
+        <genre>R&amp;B</genre>
+        <country>USA</country>
+        <album albumname="I Used To Know Her" albumtype="album" a_sku="K315F2020E"
+            catagory="Grammy_Nominee">
+            <image>her.jpg</image>
+            <citation>newsweek.com</citation>
+            <comment>definitely a winner in my book, no complaints</comment>
+            <rating>7</rating>
+            <producer>David "Swagg R'Celious" Harris, H.E.R., Walter Jones &amp; Jeff Robinson</producer>
+            <engineersmixers>Miki Tsutsumi</engineersmixers>
+            <songwriters>Sam Ashworth, Jeff “Gitty” Gitelman, David "Swagg R'Celious" Harris &amp; H.E.R.</songwriters>
+            <masteringengineer>Dave Kutch</masteringengineer>
+            <a_label>RCA</a_label>
+            <tracks>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E001">
+                    <title>Lost Souls</title>
+                    <rankposition>1</rankposition>
+                    <length>2:32</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E002">
+                    <title>Against Me</title>
+                    <rankposition>2</rankposition>
+                    <length>4:30</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E003">
+                    <title>Be on My Way (Interlude)</title>
+                    <rankposition>3</rankposition>
+                    <length>1:22</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E004">
+                    <title>Could've Been</title>
+                    <rankposition>4</rankposition>
+                    <length>4:08</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E005">
+                    <title>Feel a Way</title>
+                    <rankposition>5</rankposition>
+                    <length>3:26</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E006">
+                    <title>As I Am</title>
+                    <rankposition>6</rankposition>
+                    <length>4:00</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E007">
+                    <title>Carried Away</title>
+                    <rankposition>7</rankposition>
+                    <length>3:41</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E008">
+                    <title>Can't Help Me</title>
+                    <rankposition>8</rankposition>
+                    <length>2:53</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E009">
+                    <title>I'm Not OK</title>
+                    <rankposition>9</rankposition>
+                    <length>3:25</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E010">
+                    <title>Take You There</title>
+                    <rankposition>10</rankposition>
+                    <length>4:03</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E011">
+                    <title>Going [Interlude]</title>
+                    <rankposition>11</rankposition>
+                    <length>1:15</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E012">
+                    <title>Hard Place</title>
+                    <rankposition>12</rankposition>
+                    <length>4:31</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E013">
+                    <title>Fate</title>
+                    <rankposition>13</rankposition>
+                    <length>3:13</length>
+                    <writers>H.E.R.</writers>
+                </track>
+                <track albumref="K315F2020E" type="song" t_sku="K315F2020E014">
+                    <title>Lord Is Coming</title>
+                    <rankposition>14</rankposition>
+                    <length>5:43</length>
+                    <writers>H.E.R.</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>MBK Entertainment, RCA</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>886447876732</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+                <release>
+                    <date>2019-08-30</date>
+                    <r_label>RCA</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>886447876732</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>US</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Lil Nas X">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2018</startcareer>
+        <genre>pop</genre>
+        <!-- listen. you may hear arguments for country. you may hear arguments for hip hop, r&amp;b, or some wacko fusion. but this MR. Top 40 right here is pure pop;; to classify him as country is to admit you never heard a second song of his, and to call him hip hop is to misunderstand the meat of the thing. check his twitter. he's a pop princess. -->
+        <country>USA</country>
+        <album albumname="7" albumtype="album" a_sku="K315F2020F" catagory="Grammy_Nominee">
+            <image>nas.jpg</image>
+            <citation>gossiponthis.com</citation>
+            <comment>i feel like he and i would get along</comment>
+            <rating>8</rating>
+            <producer/>
+            <engineersmixers>Joe Grasso</engineersmixers>
+            <songwriters>Montero Lamar Hill</songwriters>
+            <masteringengineer>Eric Lagg</masteringengineer>
+            <a_label>columbia</a_label>
+            <tracks>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F001">
+                    <title>Old Town Road [Remix]</title>
+                    <rankposition>1</rankposition>
+                    <length>2:37</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F002">
+                    <title>Panini</title>
+                    <rankposition>2</rankposition>
+                    <length>1:54</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F003">
+                    <title>F9mily (You &amp; Me)</title>
+                    <rankposition>3</rankposition>
+                    <length>2:42</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F004">
+                    <title>Kick It</title>
+                    <rankposition>4</rankposition>
+                    <length>2:22</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F005">
+                    <title>Rodeo</title>
+                    <rankposition>5</rankposition>
+                    <length>2:38</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F006">
+                    <title>Bring U Down</title>
+                    <rankposition>6</rankposition>
+                    <length>2:11</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F007">
+                    <title>C7osure (You Like)</title>
+                    <rankposition>7</rankposition>
+                    <length>2:28</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+                <track albumref="K315F2020F" type="song" t_sku="K315F2020F008">
+                    <title>Old Town Road</title>
+                    <rankposition>8</rankposition>
+                    <length>1:53</length>
+                    <writers>Lil Nas X</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-06-21</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>886447818787</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, BH, YE</r_country>
+                </release>
+                <release>
+                    <date>2019-06-22</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number/>
+                    <r_barcode>886447788264</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Lizzo">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2013</startcareer>
+        <genre>pop</genre>
+        <country>USA</country>
+        <album albumname="Cuz I Love You" albumtype="album" a_sku="K315F2020G"
+            catagory="Grammy_Nominee">
+            <image>lizzo.jpg</image>
+            <citation>exclaim.ca</citation>
+            <comment>she's quite impressive i respect her and her art</comment>
+            <rating>8</rating>
+            <producer>Ricky Reed</producer>
+            <engineersmixers>Manny Marroquin &amp; Ethan Shumaker</engineersmixers>
+            <songwriters>Eric Frederic &amp; Melissa Jefferson</songwriters>
+            <masteringengineer>Chris Gehringer</masteringengineer>
+            <a_label>atlantic</a_label>
+            <tracks>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G001">
+                    <title>Cuz I Love You</title>
+                    <rankposition>1</rankposition>
+                    <length>2:59</length>
+                    <writers>Russ Flynn / Casey Harris / Sam Harris / Melissa Jefferson / Adam Levin</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G002">
+                    <title>Like a Girl</title>
+                    <rankposition>2</rankposition>
+                    <length>3:04</length>
+                    <writers>Sean Douglas / Warren Felder / Melissa Jefferson</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G003">
+                    <title>Juice</title>
+                    <rankposition>3</rankposition>
+                    <length>3:15</length>
+                    <writers>Eric Frederic / Melissa Jefferson / Sean Small / Sam Sumser / Theron Thomas</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G004">
+                    <title>Soulmate</title>
+                    <rankposition>4</rankposition>
+                    <length>2:55</length>
+                    <writers>Sean Douglas / Warren Felder / Melissa Jefferson</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G005">
+                    <title>Jerome</title>
+                    <rankposition>5</rankposition>
+                    <length>3:51</length>
+                    <writers>Casey Harris / Sam Harris / Melissa Jefferson / Adam Levin</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G006">
+                    <title>Crybaby</title>
+                    <rankposition>6</rankposition>
+                    <length>2:55</length>
+                    <writers>Eric Frederic / Charles Hinshaw / Melissa Jefferson / Nate Mercereau</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G007">
+                    <title>Tempo</title>
+                    <rankposition>7</rankposition>
+                    <length>2:55</length>
+                    <writers>Antonio Cuna / Missy Elliott / Dan Farber / Eric Fredric / Raymond Scott / Theron Thomas / Eric Tobias Wincorn</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G008">
+                    <title>Exactly How I Feel</title>
+                    <rankposition>8</rankposition>
+                    <length>2:23</length>
+                    <writers>Radric Davis / Melissa Jefferson / Mike Sabath / Theron Thomas</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G009">
+                    <title>Better in Color</title>
+                    <rankposition>9</rankposition>
+                    <length>2:13</length>
+                    <writers>Trevor Brown / Warren Felder / Melissa Jefferson / Michael Pollack / William Simmons</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G010">
+                    <title>Heaven Help Me</title>
+                    <rankposition>10</rankposition>
+                    <length>3:22</length>
+                    <writers>Casey Harris / Sam Harris / Melissa Jefferson / Adam Levin</writers>
+                </track>
+                <track albumref="K315F2020G" type="song" t_sku="K315F2020G011">
+                    <title>Lingerie</title>
+                    <rankposition>11</rankposition>
+                    <length>3:21</length>
+                    <writers>Eric Frederic / Melissa Jefferson / Nate Mercereau / Theron Thomas</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-04-18</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75679847812</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>BH, CA, US</r_country>
+                </release>
+                <release>
+                    <date>2019-04-19</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75679846488</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, US</r_country>
+                </release>
+                <release>
+                    <date>2019-04-19</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75679853585</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+                <release>
+                    <date>2019-04-19</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-05-24</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_catalogue_number>75678652158</r_catalogue_number>
+                    <r_barcode>75678652158</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-05</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_catalogue_number>075678652745, [none]</r_catalogue_number>
+                    <r_barcode>75678652745</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-06-07</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75678652110</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-07-12</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_catalogue_number>599133-2</r_catalogue_number>
+                    <r_barcode>75678652110</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-11-29</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_catalogue_number>75678650727</r_catalogue_number>
+                    <r_barcode>75678650727</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-12-13</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_catalogue_number>75678650727</r_catalogue_number>
+                    <r_barcode>75678650727</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2020-01-24</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75679827067</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+                <release>
+                    <date>2020-02-07</date>
+                    <r_label>Atlantic (Warner Music imprint), Nice Life</r_label>
+                    <r_barcode>75679824615</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Vampire Weekend">
+        <membersIFgroup groupORperson="group">Ezra Koenig, Chris Baio, Rostam Batmanglij, Chris
+            Tomson</membersIFgroup>
+        <startcareer>2008</startcareer>
+        <genre>indie pop</genre>
+        <country>USA</country>
+        <album albumname="Father Of The Bride" albumtype="album" a_sku="K315F2020H"
+            catagory="Grammy_Nominee">
+            <image>ezra.jpg</image>
+            <citation>billboard.com</citation>
+            <comment>frank. have you listend to this one? 10/10 harmonic convergence</comment>
+            <!-- i recommend big blue and goldrush -->
+            <rating>10</rating>
+            <producer>Ezra Koenig &amp; Ariel Rechtshaid</producer>
+            <engineersmixers>John DeBold, Chris Kasych, Takemasa Kosaka, Ariel Rechtshaid &amp; Hiroya Takayama</engineersmixers>
+            <songwriters>Ezra Koenig</songwriters>
+            <masteringengineer>Emily Lazar</masteringengineer>
+            <a_label>columbia</a_label>
+            <tracks>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H001">
+                    <title>Hold You Now</title>
+                    <rankposition>1</rankposition>
+                    <length>2:33</length>
+                    <writers>Ezra Koenig / Hans Zimmer</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H002">
+                    <title>Harmony Hall</title>
+                    <rankposition>2</rankposition>
+                    <length>5:08</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H003">
+                    <title>Bambina</title>
+                    <rankposition>3</rankposition>
+                    <length>1:42</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H004">
+                    <title>This Life</title>
+                    <rankposition>4</rankposition>
+                    <length>4:28</length>
+                    <writers>Ezra Koenig / Mark Ronson / Makonnen Sheran</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H005">
+                    <title>Big Blue</title>
+                    <rankposition>5</rankposition>
+                    <length>1:48</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H006">
+                    <title>How Long?</title>
+                    <rankposition>6</rankposition>
+                    <length>3:32</length>
+                    <writers>Leon Sylvers III / Ezra Koenig / William Shelby / Stephen Shockley</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H007">
+                    <title>Unbearably White</title>
+                    <rankposition>7</rankposition>
+                    <length>4:40</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H008">
+                    <title>Rich Man</title>
+                    <rankposition>8</rankposition>
+                    <length>2:29</length>
+                    <writers>Ezra Koenig / Sooliman E. Rogie</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H009">
+                    <title>Married in a Gold Rush</title>
+                    <rankposition>9</rankposition>
+                    <length>3:42</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H010">
+                    <title>My Mistake</title>
+                    <rankposition>10</rankposition>
+                    <length>3:18</length>
+                    <writers>Ludwig Göransson / Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H011">
+                    <title>Sympathy</title>
+                    <rankposition>11</rankposition>
+                    <length>3:46</length>
+                    <writers>Ezra Koenig / Ariel Rechtshaid</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H012">
+                    <title>Sunflower</title>
+                    <rankposition>12</rankposition>
+                    <length>2:17</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H013">
+                    <title>Flower Moon</title>
+                    <rankposition>13</rankposition>
+                    <length>3:57</length>
+                    <writers>Sam Gendel / Ezra Koenig / Ariel Rechtshaid</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H014">
+                    <title>2021</title>
+                    <rankposition>14</rankposition>
+                    <length>1:38</length>
+                    <writers>Haruomi Hosono / Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H015">
+                    <title>We Belong Together</title>
+                    <rankposition>15</rankposition>
+                    <length>3:10</length>
+                    <writers>Rostam Batmanglij / Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H016">
+                    <title>Stranger</title>
+                    <rankposition>16</rankposition>
+                    <length>4:08</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H017">
+                    <title>Spring Snow</title>
+                    <rankposition>17</rankposition>
+                    <length>2:41</length>
+                    <writers>Sam Gendel / Ezra Koenig / Michael Tucker</writers>
+                </track>
+                <track albumref="K315F2020H" type="song" t_sku="K315F2020H018">
+                    <title>Jerusalem, New York, Berlin</title>
+                    <rankposition>18</rankposition>
+                    <length>2:54</length>
+                    <writers>Ezra Koenig</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number>19075947362</r_catalogue_number>
+                    <r_barcode>190759473627</r_barcode>
+                    <format>CD</format>
+                    <r_country>AU</r_country>
+                </release>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number>19075947362</r_catalogue_number>
+                    <r_barcode>190759473627</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number>19075930132</r_catalogue_number>
+                    <r_barcode>190759301326</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number>19075930141</r_catalogue_number>
+                    <r_barcode>190759301418</r_barcode>
+                    <format>Vinyl</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_catalogue_number>19075946164</r_catalogue_number>
+                    <r_barcode>190759461648</r_barcode>
+                    <format>Cassette</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2019-05-03</date>
+                    <r_label>Columbia</r_label>
+                    <r_barcode>886447485521</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2019-05-15</date>
+                    <r_label>Sony Records International</r_label>
+                    <r_catalogue_number>SICP-6117</r_catalogue_number>
+                    <r_barcode>4547366400021</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+                <release>
+                    <date>2020-02-28</date>
+                    <r_label>Columbia</r_label>
+                    <r_barcode>886448304548</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Charli XCX">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2012</startcareer>
+        <genre>electro pop</genre>
+        <country>UK</country>
+        <album albumname="How I'm Feeling Now" albumtype="album" a_sku="K315F2020I"
+            catagory="Personal_Favorite">
+            <image>charliiiiiiiiii.jpg</image>
+            <citation>refinery29.com</citation>
+            <comment>have you ever been in a position to critique god? i will not-</comment>
+            <rating>10</rating>
+            <!-- really, i would like it to be 10,000 -->
+            <producer/>
+            <engineersmixers/>
+            <songwriters>Charlotte Aitchison, Alexander Guy Cook, Dijon Duenas, BJ Burton, Dylan Brady</songwriters>
+            <masteringengineer/>
+            <a_label>atlantic</a_label>
+            <tracks>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I001">
+                    <title>pink diamond</title>
+                    <rankposition>1</rankposition>
+                    <length>2:04</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Dijon Duenas</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I002">
+                    <title>forever</title>
+                    <rankposition>2</rankposition>
+                    <length>4:03</length>
+                    <writers>Charlotte Aitchison / BJ Burton / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I003">
+                    <title>claws</title>
+                    <rankposition>3</rankposition>
+                    <length>2:29</length>
+                    <writers>Charlotte Aitchison / Dylan Brady / BJ Burton</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I004">
+                    <title>7 years</title>
+                    <rankposition>4</rankposition>
+                    <length>3:15</length>
+                    <writers>Charlotte Aitchison / BJ Burton / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I005">
+                    <title>detonate</title>
+                    <rankposition>5</rankposition>
+                    <length>3:39</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I006">
+                    <title>enemy</title>
+                    <rankposition>6</rankposition>
+                    <length>3:42</length>
+                    <writers>Charlotte Aitchison / BJ Burton / Jim-E Stack / Eli Teplin</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I007">
+                    <title>i finally understand</title>
+                    <rankposition>7</rankposition>
+                    <length>2:31</length>
+                    <writers>Charlotte Aitchison / Benjy Keating</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I008">
+                    <title>c2.0</title>
+                    <rankposition>8</rankposition>
+                    <length>3:40</length>
+                    <writers>Charlotte Aitchison / Dylan Brady / Tommy Cash / Alexander Guy Cook / Jaan Umru Rothenberg / Theron Thomas</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I009">
+                    <title>party 4 u</title>
+                    <rankposition>9</rankposition>
+                    <length>4:56</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I010">
+                    <title>anthems</title>
+                    <rankposition>10</rankposition>
+                    <length>2:51</length>
+                    <writers>Charlotte Aitchison / Dylan Brady / Danny L. Harle</writers>
+                </track>
+                <track albumref="K315F2020I" type="song" t_sku="K315F2020I011">
+                    <title>visions</title>
+                    <rankposition>11</rankposition>
+                    <length>3:49</length>
+                    <writers>Charlotte Aitchison / BJ Burton / Alexander Guy Cook</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2020-05-15</date>
+                    <r_label>Atlantic Records UK, Warner Music</r_label>
+                    <r_barcode>190295229993</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW, AF, ZW</r_country>
+                </release>
+                <release>
+                    <date>2020-09-18</date>
+                    <r_label>Asylum Records UK</r_label>
+                    <r_barcode>190295207229</r_barcode>
+                    <format>CD</format>
+                    <r_country>GB</r_country>
+                </release>
+
+            </releases>
+        </album>
+        <album albumname="Charli" albumtype="album" a_sku="K315F2020J" catagory="Personal_Favorite">
+            <image>charli part 2 the final stand go big or go home winners eat all.jpg</image>
+            <citation>mne.com</citation>
+            <comment>i go hard i go fast and i never look back</comment>
+            <rating>9</rating>
+            <producer/>
+            <engineersmixers/>
+            <songwriters>Charlotte Aitchison, Alexander Guy Cook</songwriters>
+            <masteringengineer/>
+            <a_label>atlantic</a_label>
+            <tracks>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J001">
+                    <title>Next Level Charli</title>
+                    <rankposition>1</rankposition>
+                    <length>2:38</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J002">
+                    <title>Gone With</title>
+                    <rankposition>2</rankposition>
+                    <length>4:06</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Héloïse Létissier / Nicolas Petitfrere / Linus Wiklund</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J003">
+                    <title>Cross You Out</title>
+                    <rankposition>3</rankposition>
+                    <length>3:28</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J004">
+                    <title>1999</title>
+                    <rankposition>4</rankposition>
+                    <length>3:09</length>
+                    <writers>Charlotte Aitchison / Oscar Holter / Brett McLaughlin / Troye Sivan</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J005">
+                    <title>Click</title>
+                    <rankposition>5</rankposition>
+                    <length>3:53</length>
+                    <writers>Charlotte Aitchison / Dylan Brady / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J006">
+                    <title>Warm</title>
+                    <rankposition>6</rankposition>
+                    <length>3:45</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Danielle Haim</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J007">
+                    <title>Thoughts</title>
+                    <rankposition>7</rankposition>
+                    <length>3:11</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J008">
+                    <title>Blame It on Your Love</title>
+                    <rankposition>8</rankposition>
+                    <length>3:11</length>
+                    <writers>Charlotte Aitchison / Sasha Sloan</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J009">
+                    <title>White Mercedes</title>
+                    <rankposition>9</rankposition>
+                    <length>3:23</length>
+                    <writers>Charlotte Aitchison / Nathan Perez / Andrew Wotman</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J010">
+                    <title>Silver Cross</title>
+                    <rankposition>10</rankposition>
+                    <length>3:28</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J011">
+                    <title>I Don’t Wanna Know</title>
+                    <rankposition>11</rankposition>
+                    <length>3:05</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J012">
+                    <title>Official</title>
+                    <rankposition>12</rankposition>
+                    <length>3:04</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Finn Keane</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J013">
+                    <title>Shake It</title>
+                    <rankposition>13</rankposition>
+                    <length>4:35</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Rodrigo Gorky / Elizabeth Harris / Arthur Marques / Nicolas Petitfrere / Freddie Ross / Zebu</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J014">
+                    <title>February 2017</title>
+                    <rankposition>14</rankposition>
+                    <length>2:33</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Charles Teiller</writers>
+                </track>
+                <track albumref="K315F2020J" type="song" t_sku="K315F2020J015">
+                    <title>2099</title>
+                    <rankposition>15</rankposition>
+                    <length>3:27</length>
+                    <writers>Charlotte Aitchison / Alexander Guy Cook / Nicolas Petitfrere / Troye Sivan</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2019-09-13</date>
+                    <r_label>Asylum Records</r_label>
+                    <r_barcode>190295409562</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AF, AL, ZW</r_country>
+                </release>
+                <release>
+                    <date>2019-09-13</date>
+                    <r_label>Asylum Records</r_label>
+                    <r_catalogue_number>190295409586</r_catalogue_number>
+                    <r_barcode>190295409586</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE</r_country>
+                </release>
+                <release>
+                    <date>2019-09-13</date>
+                    <r_label>Warner Music Japan</r_label>
+                    <r_catalogue_number>WPCR-18259</r_catalogue_number>
+                    <r_barcode>4943674300136</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Hayley Kiyoko">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2007</startcareer>
+        <genre>electro pop</genre>
+        <country>USA</country>
+        <album albumname="Expectations" albumtype="album" a_sku="K315F2020K"
+            catagory="Personal_Favorite">
+            <image>hayley.jpg</image>
+            <citation>justjaredjr.com</citation>
+            <comment>it's not true she's not gay</comment>
+            <!-- make it stop!! -->
+            <rating>9</rating>
+            <producer/>
+            <engineersmixers/>
+            <songwriters>Cecil Bernardy / Jono Dorr / Hayley Kiyoko / Liv Marsico / Nicole Morier / Kathryn Ostenberg / Brandon Skeie</songwriters>
+            <masteringengineer/>
+            <a_label>atlantic</a_label>
+            <tracks>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K001">
+                    <title>Expectations (Overture)</title>
+                    <rankposition>1</rankposition>
+                    <length>1:52</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko / Liv Marsico / Nicole Morier</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K002">
+                    <title>Feelings</title>
+                    <rankposition>2</rankposition>
+                    <length>3:37</length>
+                    <writers>Nick Bailey / Jono Dorr / Hayley Kiyoko / Kathryn Ostenberg / Brandon Skeie</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K003">
+                    <title>What I Need</title>
+                    <rankposition>3</rankposition>
+                    <length>3:39</length>
+                    <writers>Jono Dorr / Hayley Kiyoko / Kehlani Parrish / Brandon Skeie</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K004">
+                    <title>Sleepover</title>
+                    <rankposition>4</rankposition>
+                    <length>3:54</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Nikki Flores / Hayley Kiyoko</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K005">
+                    <title>Mercy/Gatekeeper</title>
+                    <rankposition>5</rankposition>
+                    <length>5:44</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K006">
+                    <title>Under the Blue/Take Me In</title>
+                    <rankposition>6</rankposition>
+                    <length>5:37</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K007">
+                    <title>Curious</title>
+                    <rankposition>7</rankposition>
+                    <length>3:03</length>
+                    <writers>Svante Halldin / Jakob Hazell / Hayley Kiyoko / Brandon Skeie / Lisa Vitale</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K008">
+                    <title>Xx</title>
+                    <rankposition>8</rankposition>
+                    <length>0:51</length>
+                    <writers>Jono Dorr</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K009">
+                    <title>Wanna Be Missed</title>
+                    <rankposition>9</rankposition>
+                    <length>3:15</length>
+                    <writers>Jonas Jeberg / Joe Khajadourian / Hayley Kiyoko / Madison Love / Alex Schwartz</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K010">
+                    <title>He'll Never Love You (HNLY)</title>
+                    <rankposition>10</rankposition>
+                    <length>3:51</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko / Cara Salimando</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K011">
+                    <title>Palm Dreams</title>
+                    <rankposition>11</rankposition>
+                    <length>5:14</length>
+                    <writers>Fredrik Berger / Gustav Jonsson / Hayley Kiyoko / Brandon Skeie</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K012">
+                    <title>Molecules</title>
+                    <rankposition>12</rankposition>
+                    <length>4:10</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko</writers>
+                </track>
+                <track albumref="K315F2020K" type="song" t_sku="K315F2020K013">
+                    <title>Let It Be</title>
+                    <rankposition>13</rankposition>
+                    <length>3:41</length>
+                    <writers>Cecil Bernardy / Jono Dorr / Hayley Kiyoko</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2018-03-30</date>
+                    <r_label>Atlantic (Warner Music imprint)</r_label>
+                    <r_barcode>75679881090</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW, AF, ZW</r_country>
+                </release>
+                <release>
+                    <date>2018-03-30</date>
+                    <r_label>Atlantic (Warner Music imprint)</r_label>
+                    <r_barcode>75679881083</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>DZ, AO, ZW</r_country>
+                </release>
+                <release>
+                    <date>2018-03-30</date>
+                    <r_label>Atlantic (Warner Music imprint)</r_label>
+                    <r_catalogue_number>566152-2</r_catalogue_number>
+                    <r_barcode>75678658686</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2018-03-30</date>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <artist artistname="Kesha">
+        <membersIFgroup groupORperson="person"/>
+        <startcareer>2009</startcareer>
+        <genre>pop</genre>
+        <country>USA</country>
+        <album albumname="Rainbow" albumtype="album" a_sku="K315F2020L" catagory="Personal_Favorite">
+            <image>kesha.jpg</image>
+            <citation>justjaredjr.com</citation>
+            <comment>guess why its called rainbow lol</comment>
+            <rating>10</rating>
+            <producer/>
+            <engineersmixers/>
+            <songwriters>Kesha Sebert / Pebe Sebert / Stuart Crichton / Andrew Pearson / Eric Freceric</songwriters>
+            <masteringengineer/>
+            <a_label>kemosabe</a_label>
+            <tracks>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L001">
+                    <title>Bastards</title>
+                    <rankposition>1</rankposition>
+                    <length>3:51</length>
+                    <writers>Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L002">
+                    <title>Let 'Em Talk</title>
+                    <rankposition>2</rankposition>
+                    <length>3:05</length>
+                    <writers>Stuart Crichton / Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L003">
+                    <title>Woman</title>
+                    <rankposition>3</rankposition>
+                    <length>3:16</length>
+                    <writers>Andrew Pearson / Kesha Sebert / Stephen Wrabel</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L004">
+                    <title>Hymn</title>
+                    <rankposition>4</rankposition>
+                    <length>3:25</length>
+                    <writers>Eric Frederic / Jonny Price / Cara Salimando / Kesha Sebert / Pebe Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L005">
+                    <title>Praying</title>
+                    <rankposition>5</rankposition>
+                    <length>3:50</length>
+                    <writers>Ben Abraham / Andrew Joslyn / Ryan Lewis / Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L006">
+                    <title>Learn to Let Go</title>
+                    <rankposition>6</rankposition>
+                    <length>3:37</length>
+                    <writers>Stuart Crichton / Kesha Sebert / Pebe Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L007">
+                    <title>Finding You</title>
+                    <rankposition>7</rankposition>
+                    <length>2:52</length>
+                    <writers>Eric Frederic / Kesha Sebert / Justin Tranter</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L008">
+                    <title>Rainbow</title>
+                    <rankposition>8</rankposition>
+                    <length>3:38</length>
+                    <writers>Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L009">
+                    <title>Hunt You Down</title>
+                    <rankposition>9</rankposition>
+                    <length>3:17</length>
+                    <writers>Rick Nowels / Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L010">
+                    <title>Boogie Feet</title>
+                    <rankposition>10</rankposition>
+                    <length>2:53</length>
+                    <writers>Andrew Pearson / Kesha Sebert / Pebe Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L011">
+                    <title>Boots</title>
+                    <rankposition>11</rankposition>
+                    <length>3:03</length>
+                    <writers>Roget Chahayed / Eric Frederic / Kesha Sebert / Justin Tranter</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L012">
+                    <title>Old Flames (Can't Hold a Candle to You)</title>
+                    <rankposition>12</rankposition>
+                    <length>4:26</length>
+                    <writers>Hugh Moffatt / Kesha Sebert</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L013">
+                    <title>Godzilla</title>
+                    <rankposition>13</rankposition>
+                    <length>2:08</length>
+                    <writers>Nathan Chapman / Pebe Sebert / Claire Wilkinson</writers>
+                </track>
+                <track albumref="K315F2020L" type="song" t_sku="K315F2020L014">
+                    <title>Spaceship</title>
+                    <rankposition>14</rankposition>
+                    <length>5:15</length>
+                    <writers>Andrew Pearson / Kesha Sebert / Pebe Sebert</writers>
+                </track>
+            </tracks>
+            <releases>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe</r_label>
+                    <r_catalogue_number>88985459362</r_catalogue_number>
+                    <r_barcode>889854593629</r_barcode>
+                    <format>CD</format>
+                    <r_country>AU</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <r_barcode>886446560120</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>AU, CA, US</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <r_catalogue_number>88985459362</r_catalogue_number>
+                    <r_barcode>889854593629</r_barcode>
+                    <format>CD</format>
+                    <r_country>XE, GB</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <format>Digital Media</format>
+                    <r_country>KR</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <r_catalogue_number>88985-45936-2</r_catalogue_number>
+                    <r_barcode>889854593629</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe</r_label>
+                    <r_catalogue_number>88985-46417-2</r_catalogue_number>
+                    <r_barcode>889854641726</r_barcode>
+                    <format>CD</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <format>Digital Media</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <format>Digital Media</format>
+                    <r_country>US</r_country>
+                </release>
+                <release>
+                    <date>2017-08-11</date>
+                    <r_label>Kemosabe, RCA</r_label>
+                    <r_barcode>886446601205</r_barcode>
+                    <format>Digital Media</format>
+                    <r_country>XW</r_country>
+                </release>
+                <release>
+                    <date>2017-08-16</date>
+                    <r_label>Kemosabe</r_label>
+                    <r_catalogue_number>SICP‐5573</r_catalogue_number>
+                    <r_barcode>4547366318708</r_barcode>
+                    <format>CD</format>
+                    <r_country>JP</r_country>
+                </release>
+            </releases>
+        </album>
+    </artist>
+    <!-- honorary mention to james taylor but i didnt include him b/c i dont want to promote male media -->
+</mp3>

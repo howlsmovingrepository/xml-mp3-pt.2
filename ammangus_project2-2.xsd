@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="mp3">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="artist" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="membersIFgroup" type="gopType"/>
+                            <!-- i know the rubric asked for minOccurs="0" maxOccurs="unbounded" on members, but with how i've set up the document
+                                it makes more sense to have this element with its attribute occuring once & no min of zero -->
+                            <xs:element name="startcareer" type="startType" minOccurs="0"/>
+                            <xs:element name="genre" type="xs:string" minOccurs="0"
+                                maxOccurs="unbounded"/>
+                            <xs:element name="endcareer" type="xs:gYear" minOccurs="0"/>
+                            <!-- endcareer elements in doc have been deleted for all artists with null values -->
+                            <xs:element name="country"/>
+                            <xs:element name="album" maxOccurs="unbounded">
+                                <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                        <xs:element name="image" type="imageType"> </xs:element>
+                                        <xs:element name="citation" type="xs:string"/>
+                                        <xs:element name="comment" minOccurs="0" type="commentType"/>
+                                        <xs:element name="rating" type="ratingType"/>
+                                        <xs:element name="producer" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="engineersmixers" type="xs:string"
+                                            minOccurs="0" maxOccurs="unbounded"/>
+                                        <xs:element name="songwriters" type="xs:string"
+                                            minOccurs="0"/>
+                                        <xs:element name="masteringengineer" type="xs:string"
+                                            minOccurs="0"/>
+                                        <xs:element name="a_label" type="xs:string"/>
+                                        <xs:element name="tracks" type="trackType"/>
+                                        <xs:element name="releases" type="releaseType"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="albumname" type="xs:string" use="required"/>
+                                    <xs:attribute name="albumtype" type="productType" use="required"/>
+                                    <xs:attribute name="a_sku" use="required">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:ID">
+                                                <xs:pattern value="K315F2020[A-Z]{1}"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
+                                    <xs:attribute name="catagory" type="catagoryType" use="required"/>
+
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="artistname" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="gopType" mixed="true">
+        <xs:attribute name="groupORperson">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="person"/>
+                    <xs:enumeration value="group"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:simpleType name="startType">
+        <xs:restriction base="xs:string">
+            <!-- would have made this a gYear, but i'm trying to follow directions -->
+            <xs:pattern value="\d{4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="imageType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value=".+[.]jpeg"/>
+            <xs:pattern value=".+[.]jpg"/>
+            <xs:pattern value=".+[.]gif"/>
+            <xs:pattern value=".+[.]png"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="commentType">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="10"/>
+            <xs:maxLength value="200"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="ratingType">
+        <xs:restriction base="xs:positiveInteger">
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="10"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="trackType">
+        <xs:sequence>
+            <xs:element name="track" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="title" type="xs:string"/>
+                        <xs:element name="rankposition" type="xs:positiveInteger"/>
+                        <xs:element name="length">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:pattern value=".*.*:\d{2}"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                        <xs:element name="writers" type="xs:string" minOccurs="0"/>
+                    </xs:sequence>
+                    <xs:attribute name="albumref" use="required">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:IDREF">
+                                <xs:pattern value="K315F2020[A-Z]{1}"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:attribute>
+                    <xs:attribute name="type" type="productType"> </xs:attribute>
+                    <xs:attribute name="t_sku">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:ID">
+                                <xs:pattern value="K315F2020[A-Z]{1}\d{3}"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:attribute>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="releaseType">
+        <xs:sequence>
+            <xs:element name="release" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="date" type="dateType" minOccurs="0"/>
+                        <xs:element name="r_label" type="xs:string" minOccurs="0"/>
+                        <xs:element name="r_catalogue_number" type="xs:string" minOccurs="0"/>
+                        <xs:element name="r_barcode" type="xs:string" minOccurs="0"/>
+                        <xs:element name="format" minOccurs="0">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="CD"/>
+                                    <xs:enumeration value="Digital Media"/>
+                                    <xs:enumeration value="Vinyl"/>
+                                    <xs:enumeration value="12&quot; Vinyl"/>
+                                    <xs:enumeration value="7x7&quot; Vinyl"/>
+                                    <xs:enumeration value="2x12&quot; Vinyl"/>
+                                    <xs:enumeration value="Cassette"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                        <xs:element name="r_country" type="xs:string" minOccurs="0"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="dateType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{4}-\d{2}-\d{2}"/>
+            <xs:pattern value="\d{4}-\d{2}"/>
+            <xs:pattern value="[A-Z]{2}\d{4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="catagoryType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Grammy_Winner"/>
+            <xs:enumeration value="Grammy_Nominee"/>
+            <xs:enumeration value="Personal_Favorite"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="productType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="album"/>
+            <xs:enumeration value="song"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+</xs:schema>
